@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 559.0, 208.0, 640.0, 480.0 ],
+		"rect" : [ 579.0, 152.0, 640.0, 480.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -45,7 +45,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 144.0, 348.0, 43.0, 22.0 ],
+					"patching_rect" : [ 175.0, 324.0, 43.0, 22.0 ],
 					"text" : "cycle~"
 				}
 
@@ -56,7 +56,7 @@
 					"maxclass" : "ezdac~",
 					"numinlets" : 2,
 					"numoutlets" : 0,
-					"patching_rect" : [ 155.0, 395.5, 45.0, 45.0 ]
+					"patching_rect" : [ 175.0, 374.0, 45.0, 45.0 ]
 				}
 
 			}
@@ -68,7 +68,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 336.0, 355.0, 50.0, 22.0 ]
+					"patching_rect" : [ 175.0, 293.0, 50.0, 22.0 ]
 				}
 
 			}
@@ -79,7 +79,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 168.0, 281.0, 32.0, 22.0 ],
+					"patching_rect" : [ 175.0, 260.0, 32.0, 22.0 ],
 					"text" : "mtof"
 				}
 
@@ -92,7 +92,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 164.0, 243.0, 50.0, 22.0 ]
+					"patching_rect" : [ 175.0, 228.0, 50.0, 22.0 ]
 				}
 
 			}
